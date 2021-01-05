@@ -136,11 +136,6 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 
 ### The Fourth: "Masoud Radaei"
 
-<p align="center">
-  <img width="320" height="318" src="">
-</p>
-
-
 📧 𝐄𝐦𝐚𝐢𝐥: 
 
 
