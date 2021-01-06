@@ -1,4 +1,4 @@
-## "Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software"
+# "Principles Of Image Compression in The Medical and Aerial Image By MATLAB Software"
 
 ---
 
