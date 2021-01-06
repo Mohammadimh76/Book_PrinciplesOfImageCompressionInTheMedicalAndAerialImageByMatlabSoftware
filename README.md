@@ -70,13 +70,13 @@ Today, drones are widely used and considered one of the most essential and effic
 The term "drone" stands for "remote-controlled aircraft," which is defined for drones and is made up of the words' initials. Today, drones have become a hot topic in technology, and various companies are using this technology tool. Some companies are working on controlling and improving the navigation system of these useful tools, and others are coming up with new ideas for more applications.<br>
 
 ## Chapter (4) - Basics of compression
-The purpose of image compression is to reduce the redundancy of the contents of the image. In other words, image compression means storing it as a set of transformations. The rate of reduction of a file capacity depends on several factors such as file type, file size, method and algorithm used by the compression program. Photo compression can be done without loss and high loss (loss, loss, games, waste).<br>
+The purpose of image compression is to reduce the redundancy of the contents of the image. In other words, image compression means storing it as a set of transformations. The reduction of a file capacity depends on several factors such as file type, file size, method, and algorithm used by the compression program. Photo compression can be done without loss and high loss (loss, loss, games, waste).<br>
 
 ## Chapter (5) - Check how the program works
 In this chapter, we will review and analyze how the designed program works.
 
 ## Chapter (6) - Conclusion
-In this research, an algorithm based on wavelet functions was performed to compress and encode images as well as decode and reconstruct the image. Finally, easy-to-use software was designed in MATLAB environment. The results showed that this algorithm has the ability to compress and encode images at the desired level. However, by improving the functions used, the execution speed of the algorithm can be increased. In this algorithm, an attempt has been made to do more image processing to increase the usability of the algorithm at the destination. As a result, less electronic components can be used for processing at the transmitter, and the main processor can be used at the destination where more equipment can be used.<br>
+In this research, an algorithm based on wavelet functions was performed to compress and encode images and decode and reconstruct the image. Finally, easy-to-use software was designed in a MATLAB environment. The results showed that this algorithm could compress and encode images at the desired level. However, by improving the functions used, the execution speed of the algorithm can be increased. In this algorithm, an attempt has been made to do more image processing to increase the algorithm's usability at the destination. As a result, fewer electronic components can be used for processing at the transmitter, and the central processor can be used at the destination where more equipment can be used.<br>
 
 
 ---
