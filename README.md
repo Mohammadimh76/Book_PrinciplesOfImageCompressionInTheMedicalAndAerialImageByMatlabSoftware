@@ -53,8 +53,8 @@ Compression is a type of coding operation in which input data is encoded in a wa
 
 
 ## Chapter (1) - General
-The purpose of image compression is to reduce the redundancy of image contents. In other words, image compression means storing it as a set of conversions. Compression is a type of coding operation in which the input data is encoded in a way that takes up less space and can be retrieved at any time and return the original data to us.<br>
-The main purpose of compression is to reduce the size of the data. Perhaps many years ago, when it came to compression, this goal was huge. Why were data storage resources so limited and so expensive? Now it seems that time is over and today the need for compression has not only not diminished, but is also increasing. And there is a difference in how compression methods are applied.<br>
+The purpose of image compression is to reduce the redundancy of image contents. In other words, image compression means storing it as a set of conversions. The reduction is a type of coding operation in which the input data is encoded in a way that takes up less space and can be retrieved at any time and return the original data to us.<br>
+The primary purpose of compression is to reduce the size of the data. Perhaps many years ago, when it came to reduction, this goal was huge. Why were data storage resources so limited and so expensive? Now it seems that time is over, and today the need for compression has not diminished but is also increasing. And there is a difference in how compression methods are applied.<br>
 
 ## Chapter (2) - Basics of medical imaging
 Medical imaging is the technique and process used to make images of the human body (or parts and functions) for clinical purposes (medical procedures that seek to identify, treat, and evaluate diseases) or medical sciences (including anatomical and physiological studies). Medical imaging is an interplay of several disciplines such as medical physics, medical engineering, biology, and optics.<br>
