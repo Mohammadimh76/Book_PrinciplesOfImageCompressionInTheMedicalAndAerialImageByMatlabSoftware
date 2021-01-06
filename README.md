@@ -4,7 +4,7 @@
 
 ## Introduction:
 Today, compression methods have found many applications in various aspects of computers and communications. The purpose of image compression is to reduce the redundancy of image contents. In other words, image compression means storing it as a set of transformations.<br>
-Compression is a type of coding operation in which input data is encoded in a way that takes up less space and can be retrieved at any time and return the original data to us. The main purpose of data compression is to reduce the volume of data. Today's information systems directly or indirectly benefit from the benefits of compression methods. The dissertation in front of you is an attempt to introduce image compression methods and implement some of these algorithms on standard images.
+Compression is a type of coding operation in which input data is encoded in a way that takes up less space and can be retrieved at any time and return the original data to us. The primary purpose of data compression is to reduce the volume of data. Today's information systems directly or indirectly benefit from the benefits of compression methods. The dissertation in front of you attempts to introduce image compression methods and implement some of these algorithms on standard images.<br>
 
 
 
