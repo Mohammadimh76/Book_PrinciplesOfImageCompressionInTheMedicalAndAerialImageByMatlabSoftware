@@ -15,10 +15,10 @@ Compression is a type of coding operation in which input data is encoded in a wa
 | <b>Authors (Translators)</b>    |   A.Salehi, S.Y.Moradi, M.H.Mohammadi, M.Radaei|
 | <b>language</b>    |  Persian   |
 | <b>Printed in the</b>    |  IRAN   |
-| <b>Publisher</b>    |   ...  |
-| <b>First Printing Edition</b>    |   ...  |
-| <b>Print Length</b>    |  ...   |
-| <b>ISBN</b>    |  978-600-...-...-.   |
+| <b>Publisher</b>    |   Arna  |
+| <b>First Printing Edition</b>    |   Jan,2021  |
+| <b>Print Length</b>    |  128   |
+| <b>ISBN</b>    |  978-622-291-001-3‬   |
 
 ---
 
