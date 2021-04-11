@@ -18,7 +18,7 @@ Compression is a type of coding operation in which input data is encoded in a wa
 | <b>Publisher</b>    |   [Arna](http://arnapub.com/)  |
 | <b>First Printing Edition</b>    |   Jan,2021  |
 | <b>Print Length</b>    |  128   |
-| <b>ISBN</b>    |  978-622-291-001-3‬   |
+| <b>[ISBN](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7431044&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)</b>    |  [978-622-291-001-3](http://opac.nlai.ir/opac-prod/search/briefListSearch.do?command=FULL_VIEW&id=7431044&pageStatus=2&sortKeyValue1=sortkey_title&sortKeyValue2=sortkey_author)‬   |
 
 ---
 
