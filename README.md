@@ -2,7 +2,7 @@
 
 ---
 
-## Introduction:
+## 〽️Introduction:
 Today, compression methods have found many applications in various aspects of computers and communications. The purpose of image compression is to reduce the redundancy of image contents. In other words, image compression means storing it as a set of transformations.<br>
 Compression is a type of coding operation in which input data is encoded in a way that takes up less space and can be retrieved at any time and return the original data to us. The primary purpose of data compression is to reduce the volume of data. Today's information systems directly or indirectly benefit from the benefits of compression methods. The dissertation in front of you attempts to introduce image compression methods and implement some of these algorithms on standard images.<br>
 
@@ -146,5 +146,12 @@ Prior to BL, I finished my Diploma - Mathematics and Physics in Sheikh Ansari Hi
 
 ## (E-Book Demo): 🔺(Coming Soon)🔺
 
+---
+
+## 🛒Buy
+
+| Amazon (Kindle Edition) | Taaghche  |
+|-----------|--------------------|
+| <p align="center"><img width="250" height="75" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Amazon_logo.svg.png"></p> | [<p align="center"><img width="250" height="86" src="https://raw.githubusercontent.com/Mohammadimh76/Book_AStepByStepGuidetoPatentingInIran/main/Stores_logo/Taaghche_logo.jpg"></p>](https://taaghche.com/book/90993/%D8%A7%D8%B5%D9%88%D9%84-%D9%81%D8%B4%D8%B1%D8%AF%D9%87-%D8%B3%D8%A7%D8%B2%DB%8C-%D8%AA%D8%B5%D8%A7%D9%88%DB%8C%D8%B1-%D9%BE%D8%B2%D8%B4%DA%A9%DB%8C-%D9%88-%D9%87%D9%88%D8%A7%DB%8C%DB%8C-%D8%AF%D8%B1-%D9%86%D8%B1%D9%85-%D8%A7%D9%81%D8%B2%D8%A7%D8%B1-%D9%85%D8%AA%D9%84%D8%A8) |
 
 
